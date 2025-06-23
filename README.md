@@ -1,8 +1,7 @@
-<div align="center">
-# Hands On Instalação e Configuração do GitHub Copilot com o VS Code
+# **Hands On Instalação e Configuração do GitHub Copilot com o VS Code**
 
 Atividade prática que envolve a preparação do ambiente de desenvolvimento com o GitHub Copilot no Visual Studio Code para auxiliar na programação. Curso "Microsoft Azure Cloud Native". 
-</div>
+
 
 # **Cloud**
 
